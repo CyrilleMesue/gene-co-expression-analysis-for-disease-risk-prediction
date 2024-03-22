@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 downloads/
 data1/
+data2/
 eggs/
 .eggs/
 lib/
