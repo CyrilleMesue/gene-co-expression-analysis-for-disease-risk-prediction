@@ -11,7 +11,14 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-downloads/
+downloads/GSE152004_695_expr_norm.txt.gz
+downloads/GSE152004_series_matrix.txt.gz
+downloads/GSE201955-GPL20301_series_matrix.txt.gz
+downloads/GSE201955_RNAseq_118_processeddata.txt.gz
+downloads/GSE58434_All_Sample_FPKM_Matrix.txt.gz
+downloads/GSE58434_series_matrix.txt.gz
+downloads/GSE67472_series_matrix.txt.gz
+downloads/GSE69683_series_matrix.txt.gz
 data1/
 data2/
 eggs/
