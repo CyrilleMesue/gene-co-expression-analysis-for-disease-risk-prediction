@@ -26,6 +26,8 @@ cd disease-risk-prediction-from-gene-co-expression/downloads
 
 cd ../
 mkdir data1 data2
+
+bash download.sh
 ```
 
 # For R Scripts
